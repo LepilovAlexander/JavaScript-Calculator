@@ -6,7 +6,9 @@
 html,
 body {
     font-size: 14px;
- }
+    color: #555555;
+    font-family: sans-serif;
+}
 body {
 		background-image: url(img/bg.jpg);
 		background-attachment: fixed;
